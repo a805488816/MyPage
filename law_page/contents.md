@@ -1,11 +1,11 @@
 # 目录
-## 第一编 [总则](https://a805488816.github.io/MyPage/first_chapter/first_point.html)
-### 第一章 [基本规定]()
-### 第二章 [自然人]()
-#### 第一节 [民事权利能力和民事行为能力]()
-#### 第二节 [监护]()
-#### 第三节 [宣告失踪和宣告死亡]()
-#### 第四节 [个体工商户和农村承包经营户]()
+## 第一编 总则
+### 第一章 [基本规定](https://a805488816.github.io/MyPage/law_page/dir_1/chapter1.html)
+### 第二章 [自然人](https://a805488816.github.io/MyPage/law_page/dir_1/chapter2.html)
+#### 第一节 [民事权利能力和民事行为能力](https://a805488816.github.io/MyPage/law_page/dir_1/chapter2.html)
+#### 第二节 [监护](https://a805488816.github.io/MyPage/law_page/dir_1/chapter2.html)
+#### 第三节 [宣告失踪和宣告死亡](https://a805488816.github.io/MyPage/law_page/dir_1/chapter2.html)
+#### 第四节 [个体工商户和农村承包经营户](https://a805488816.github.io/MyPage/law_page/dir_1/chapter2.html)
 ### 第三章 [法人]()
 #### 第一节 [一般规定]()
 #### 第二节 [营利法人]()
